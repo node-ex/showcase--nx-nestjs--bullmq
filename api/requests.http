@@ -1,1 +1,9 @@
-GET http://localhost:3000/api
+GET http://localhost:3000/api/bullmq
+
+###
+
+POST http://localhost:3000/api/bullmq
+
+###
+
+DELETE http://localhost:3000/api/bullmq/5
